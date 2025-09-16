@@ -3,4 +3,4 @@ This repository is relative to the experiments presented as part of the paper "C
 
 The file "XXX" includes the 30 articles analyzed in the paper.
 
-The file "YYY" 
+The document "YYY" contains the eight questions posed to the human raters and the LLM.
