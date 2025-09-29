@@ -4,10 +4,10 @@
 
 **Select one**
 
-◯ 0-25%  
-◯ 26-50%  
-◯ 51-75%  
-◯ 76-100%
+▢ 0-25%  
+▢ 26-50%  
+▢ 51-75%  
+▢ 76-100%
 
 ## **Question 2:  How is the Hamas attack on Israel on October 7, 2023 described?**
 
